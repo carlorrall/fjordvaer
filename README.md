@@ -1,7 +1,7 @@
 # Fjordvær
 
 A small Android app that shows wind, current, wave and rain forecasts for the Oslofjord on a
-map. Pick a layer, set how strong the conditions need to be before you care, and the map shows
+map. Pick a layer, set how strong the conditions need to be, and the map shows
 where that's the case right now.
 
 ## Features
